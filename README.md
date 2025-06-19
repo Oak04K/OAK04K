@@ -47,7 +47,7 @@
 
 ## 📫 Let's Connect!
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Oak04K)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oakgamer3@gmail.com)
 
 ---
 ### 💫 *"Building the future of finance, one line of code at a time"*
