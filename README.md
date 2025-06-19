@@ -40,7 +40,7 @@
 - [ ] Expand to Southeast Asia markets
 
 ## 🌊 Fun Facts
-- 🐋 Love whales (hence CaviWhale mascot!)
+- 🐋 Love whales (hence YOOMIWhale mascot!)
 - 🎮 Enjoy building things that matter
 - 🌟 Believe technology can democratize finance
 - ☕ Powered by coffee and determination
