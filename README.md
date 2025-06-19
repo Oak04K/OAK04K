@@ -23,7 +23,7 @@
 **Features:**
 - 💰 Personal Finance Management
 - 🏢 Business Financial Analytics  
-- 🤖 CaviWhale AI Assistant
+- 🤖 YOOMI AI Assistant
 - 📊 Real-time Data Visualization
 - 🎨 Modern Mint Green + Midnight Navy Design
 
