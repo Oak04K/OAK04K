@@ -22,13 +22,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oak04K&layout=compact&theme=radical&hide_border=true&bg_color=0a1f33&title_color=3ef4c2&text_color=ffffff)
 
-## 🎯 2025 Goals
-- [ ] Complete YOOMI MVP
-- [ ] Launch YOOMI Beta
-- [ ] Build fintech community
-- [ ] Graduate Industrial Engineering
-- [ ] Expand to Southeast Asia markets
-
 ## 🌊 Fun Facts
 - 🐋 Love whales (hence YOOMIWhale mascot!)
 - 🎮 Enjoy building things that matter
