@@ -17,16 +17,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## 🐋 Current Project: YOOMI
-> *Your AI-Powered Financial Companion for the New Generation*
-
-**Features:**
-- 💰 Personal Finance Management
-- 🏢 Business Financial Analytics  
-- 🤖 YOOMI AI Assistant
-- 📊 Real-time Data Visualization
-- 🎨 Modern Mint Green + Midnight Navy Design
-
 ## 📊 GitHub Stats
 ![Oak04K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oak04K&show_icons=true&theme=radical&hide_border=true&bg_color=0a1f33&title_color=3ef4c2&text_color=ffffff&icon_color=3ef4c2)
 
@@ -50,6 +40,5 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oakgamer3@gmail.com)
 
 ---
-### 💫 *"Building the future of finance, one line of code at a time"*
 
 ⭐ **Currently open to collaborations and opportunities in fintech!**
