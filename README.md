@@ -6,8 +6,11 @@
 
 <h1 align="center">About Me</h1>
 - **Industrial Engineering background.** I apply systems thinking and process optimization to game design and software architecture.
+
 - My experience in analyzing comprehensive global case studies helps me build highly logical and well-structured game mechanics.
+
 - Currently focusing on game development and interactive storytelling using **Godot** and **Ren'Py**.
+
 - Core programming languages: **Python** and **C++**.
 
 ## My Tech Stack
