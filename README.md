@@ -30,6 +30,8 @@
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logoColor=white)
 
+</br>
+
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oak04K&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
